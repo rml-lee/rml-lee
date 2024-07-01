@@ -1,4 +1,4 @@
-#  <h1 align="center">👋 Hi there, I’m Raheem Lee.</h1>
+#  <h1 align="center">👋 Hi, I’m Raheem Lee.</h1>
 
 Welcome to my portfolio! I am a graduate from Georgia State University with a passion for data analytics. My academic background has provided me with a strong foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
 
