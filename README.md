@@ -5,7 +5,7 @@ Welcome to my portfolio! I am a graduate from Georgia State University with a pa
 In this portfolio, you will find projects that showcase my skills in:
 
 - Data Cleaning and Preparation: Examples of transforming raw data into meaningful insights.
-- Data Transformation: Using structured query language to manipulate and transform data into desirable results.
+- Data Transformation: Utilizing SQL to modify and convert data into desired outcomes.
 - Data Visualization: Creating compelling visual stories using tools like Tableau.
 - Statistical Analysis: Applying statistical methods to uncover trends and patterns.
 
