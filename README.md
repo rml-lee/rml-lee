@@ -19,7 +19,7 @@ I am enthusiastic about starting my career in data analytics, eager to gain hand
 
 ### 📚 Projects
 
-Here, you will find a comprehensive list of my projects [here](https://github.com/rml-lee/Portfolio-Guide/blob/main/README.md).
+You will find a comprehensive list of my projects [here](https://github.com/rml-lee/Portfolio-Guide/blob/main/README.md).
 
 
 
