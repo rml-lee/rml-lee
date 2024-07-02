@@ -4,10 +4,10 @@ Welcome to my portfolio! I am a CIS graduate from Georgia State University with 
 
 In this portfolio, you will find projects that showcase my skills in:
 
-- Data Cleaning and Preparation: Illustrations of refining and organizing raw data to ensure accuracy and usability.
-- Data Transformation: Utilizing SQL to modify and convert data into desired outcomes.
-- Data Visualization: Creating compelling visual stories using tools like Tableau.
-- Statistical Analysis: Applying statistical methods to uncover trends and patterns.
+- **Data Cleaning and Preparation**: Illustrations of refining and organizing raw data to ensure accuracy and usability.
+- **Data Transformation**: Utilizing SQL to modify and convert data into desired outcomes.
+- **Data Visualization**: Creating compelling visual stories using tools like Tableau.
+- **Statistical Analysis**: Applying statistical methods to uncover trends and patterns.
 
 I am enthusiastic about starting my career in data analytics, eager to gain hands-on experience, expand my knowledge, and continually enhance my skills.
 
