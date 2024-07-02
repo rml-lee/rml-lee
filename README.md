@@ -20,3 +20,10 @@ I am enthusiastic about starting my career in data analytics, eager to gain hand
 ### 📚 Projects
 
 Here, you will find a comprehensive list of my projects [here](https://github.com/rml-lee/Portfolio-Guide/blob/main/README.md).
+
+
+
+
+### Connect with Me
+<a href="www.linkedin.com/in/rlee-488143149"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="leeraheem@icloud.com"><img alt="Email" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"></a>
