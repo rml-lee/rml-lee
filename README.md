@@ -1,6 +1,6 @@
 #  <h1 align="center">👋 Hi, I’m Raheem Lee.</h1>
 
-I am a GSU graduate with a passion for data analytics. I have a strong foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
+Welcome to my portfolio! I am a GSU graduate with a passion for data analytics. I have a strong foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
 
 In this portfolio, you will find projects that showcase my skills in:
 
