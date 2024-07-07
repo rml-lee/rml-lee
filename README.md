@@ -9,7 +9,7 @@ In this portfolio, you will find projects that showcase my skills in:
 - **Data Visualization**: Creating compelling visual stories using tools like Tableau.
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns.
 
-I am enthusiastic about starting my career in business intelligence, eager to gain hands-on experience, expand my knowledge, and continually enhance my skills.
+I am eager to apply my skills in real-world scenarios to help organizations harness the power of data for improved efficiency and growth.
 
 ### 🛠️ Tools & Languages
 
