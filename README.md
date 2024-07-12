@@ -2,7 +2,7 @@
 
 I am an aspiring data analyst with a strong self-taught foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
 
-In this portfolio, you will find projects that showcase my skills in:
+You will find projects that showcase my skills in:
 
 - **Data Cleaning and Preparation**: Illustrations of refining and organizing raw data to ensure accuracy and usability.
 - **Data Transformation**: Utilizing SQL to modify and convert data into desired outcomes.
