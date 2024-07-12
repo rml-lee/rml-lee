@@ -1,6 +1,6 @@
 #  <h1 align="center">👋 Hi, I’m Raheem Lee.</h1>
 
-I am an aspiring data analyst with a strong self-taught foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
+I am a college graduate who is an aspiring data analyst with a strong self-taught foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
 
 You will find projects that showcase my skills in:
 
