@@ -1,6 +1,6 @@
 #  <h1 align="center">👋 Hi, I’m Raheem Lee.</h1>
 
-I am a college graduate with a strong self-taught foundation in data analysis, data cleaning, and programming languages such as SQL and Python.
+I am a college graduate with a strong self-taught foundation in data analysis, data cleaning, and programming languages such as SQL and Tableau.
 
 You will find projects that showcase my skills in:
 
