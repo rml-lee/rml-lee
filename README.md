@@ -9,7 +9,7 @@ You will find projects that showcase my skills in:
 - **Data Visualization**: Creating compelling visual stories using tools like Tableau.
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns.
 
-I am eager to apply my skills in a professional setting to help organizations harness the power of data for improved efficiency and growth.
+I am eager to apply my skills in a new professional setting to help organizations harness the power of data for improved efficiency and growth.
 
 ### 🛠️ Tools & Languages
 
